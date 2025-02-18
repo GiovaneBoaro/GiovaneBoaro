@@ -7,9 +7,9 @@
 
 ![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaneBoaro&show_icons=true&theme=dracula)
 
-| Languages | Gengar |
+| Languages | 
 |--- |--- 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneBoaro)](https://github.com/anuraghazra/github-readme-stats) | ![gengar-gengar-pokemon](https://github.com/GiovaneBoaro/GiovaneBoaro/assets/96142962/0ccdbfdc-4508-45d5-8f48-5ae4ffa7939c) | 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneBoaro)](https://github.com/anuraghazra/github-readme-stats) | 
 
 ## Technologies I use:
 <div style="display: inline_block"><br/>
